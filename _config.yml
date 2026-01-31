@@ -1,3 +1,3 @@
-remote_theme: sighingnow/jekyll-gitbook
+remote_theme: Hammie217/LatexJekyll
 plugins:
   - jekyll-remote-theme
