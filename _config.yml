@@ -1,0 +1,3 @@
+remote_theme: poole/lanyon
+plugins:
+  - jekyll-remote-theme
