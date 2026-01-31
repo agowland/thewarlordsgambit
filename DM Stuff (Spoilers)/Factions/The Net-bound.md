@@ -1,0 +1,1 @@
+Rockchester-wide guild of seamen, fishers and those (other than merchants) who make their living off the sea, lakes and rivers

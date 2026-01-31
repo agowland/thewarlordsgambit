@@ -1,0 +1,4 @@
+When the party meets Ronan Duffy himself, it turns out the job’s a bit more complicated than Bridget led them to believe. The sailor Ronan wants them to find might not even know Ronan even exists, nevermind wanting to sail with him. Plus, Ronan doesn’t know where he actually is – just that he’s in Rockchester, since he had to leave his last crew rather quickly. He’s willing to pay handsomely though, if the party can convince the sailor to join his crew. There’s *8 bags of gold* in it for them if they can bring the sailor back to him, ready to work.
+
+**SECRET**
+- The sailor is a former officer in The Circle’s navy who fled to Rockchester after being involved in a mutiny on his own ship. Now, he’s paranoid, and moving from town to town, seeking a place where he feels safe, or a way to start a new life. He has vital information about The Circle’s plans and strategy, but he won’t share it until the party gains his trust.

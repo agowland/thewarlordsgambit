@@ -1,0 +1,1 @@
+Extremely popular Chancellor of Canter who is tough on crime and almost ruthlessly patriotic. Many of the King and government’s humanitarian-focused decisions don’t go down well with Sibald, but she’s far too patriotic and loyal to Rockchester as a nation to ever be a threat to their rule.

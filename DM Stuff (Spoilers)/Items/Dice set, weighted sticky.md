@@ -1,0 +1,4 @@
+> [!PDF|] [[Tavern_Games.pdf#page=3&selection=184,0,210,33|Tavern_Games, p.3]]
+> > These dice are hollow and have an lining of sticky resin and a tiny metal ball on the inside of them. This ball can be loaded to a particular side of the dice by hitting the dice against a hard surface, making the interior ball stick to the resin, and skew the rolls towards a specific number. When rolled, there is an 80% chance that the dice will land on the opposite side of the designated number, as the iron ball is weighing the dice down. Sticky dice are very difficult to spot, as a talented con artist can quickly change the nature of the dice by slamming the dice against their palm or the table. If someone suspects something is off with the dice, they must succeed on a DC 20 Investigation check to determine that the dice have been tampered with.
+> 
+> 

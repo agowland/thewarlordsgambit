@@ -1,0 +1,7 @@
+- [ ] Choose a newsletter platform
+- [ ] Setup outline
+	- [ ] Intro to me & my role
+	- [ ] Intro to newsletter (i.e. this is a preview)
+	- [ ] Call to Action
+		- [ ] “We love giving back, but we need your help!” call for mentors
+	- [ ] Opt out option at the end
