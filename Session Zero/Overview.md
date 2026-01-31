@@ -1,6 +1,8 @@
 # Session Zero
 
 ---
+date: false
+---
 
 **5-10" Player Introductions**
 

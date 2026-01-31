@@ -1,3 +1,6 @@
+---
+date: false
+---
 ## Character Questionnaire
 
 ---- 

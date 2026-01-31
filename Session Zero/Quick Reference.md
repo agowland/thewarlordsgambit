@@ -1,3 +1,7 @@
+---
+date: false
+---
+
 # Quick Reference
 
 --- 

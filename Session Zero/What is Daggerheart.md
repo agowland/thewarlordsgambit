@@ -1,3 +1,7 @@
+---
+date: false
+---
+
 # Intro to Daggerheart
 
 ## What is Daggerheart?

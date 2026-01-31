@@ -1,6 +1,8 @@
 # Player Resources
 
 ---
+date: false
+---
 
 ## Character Sheets and Character Creation Tools
 - [Demiplane/NEXUS](https://app.demiplane.com/home) (Account required, but then I can add you to my content sharing group)
