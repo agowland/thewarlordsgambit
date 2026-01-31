@@ -1,0 +1,19 @@
+title: "The Warlord's Gambit"
+description: "A campaign resource hub for the Daggerheart tabletop RPG campaign."
+url: "https://agowland.github.io/thewarlordsgambit"
+
+# Theme
+remote_theme: pages-themes/minima@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+# Collections
+collections:
+  session_zero:
+    output: true
+  session_notes:
+    output: true
+
+# Include files
+include:
+  - _pages
