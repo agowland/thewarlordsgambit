@@ -11,7 +11,7 @@ author_name:        "Aidan Gowland" # Your name here
 # Site Settings
 url:                 https://agowland.github.io # Change to your site
 baseurl:        /thewarlordsgambit
-permalink:          /:basename.html
+permalink:          /:basename/
 timezone:           America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to false to disable
 
