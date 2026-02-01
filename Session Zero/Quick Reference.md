@@ -1,5 +1,7 @@
 ---
 date: false
+layout: page
+title: "Quick Reference"
 ---
 
 # Quick Reference

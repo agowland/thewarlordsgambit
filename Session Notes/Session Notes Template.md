@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Session Notes Template"
+---
+
 # Session [#] - [Session Title]
 
 **Date**: [Date Session Played]  

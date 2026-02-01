@@ -1,5 +1,7 @@
 ---
 date: false
+layout: page
+title: "What is Daggerheart"
 ---
 
 # Intro to Daggerheart
