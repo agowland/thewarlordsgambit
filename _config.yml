@@ -1,18 +1,17 @@
 # Site Info
 title:              "The Warlord's Gambit"
-description:        "A Five Banners Burning campaign for Daggerheart"
-google_verify:      
-google_analytics:   
+description:        "A hub for resources and session notes related to *The Warlord's Gambit*"
+
 
 # Author Info
-author_name:        "Aidan" # Your name here
+author_name:        "Aidan Gowland" # Your name here
 
 
 # Site Settings
-url:                 https://agowland.github.io/thewarlordsgambit 
-baseurl:        https://agowland.github.io/thewarlordsgambit 
+url:                 https://agowland.github.io
+baseurl:        https://agowland.github.io/thewarlordsgambit
 permalink:          /posts/:title # Post permalink
-timezone:           America/Los_Angeles # 
+timezone:           America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to false to disable
 
 # Site Build
