@@ -1,7 +1,8 @@
 ---
 date: false
 layout: page
-title: "player-resources"
+title: "Player Resources"
+permalink: /player-resources/
 ---
 # Player Resources
 

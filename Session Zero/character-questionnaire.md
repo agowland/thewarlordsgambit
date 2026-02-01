@@ -1,7 +1,8 @@
 ---
 date: false
 layout: page
-title: "character-questionnaire"
+title: "Character Questionnaire"
+permalink: /character-questionnaire/
 ---
 ## Character Questionnaire
 

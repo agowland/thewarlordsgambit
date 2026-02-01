@@ -1,7 +1,8 @@
 ---
 date: false
 layout: page
-title: "what-is-daggerheart"
+title: "What is Daggerheart"
+permalink: /what-is-daggerheart/
 ---
 
 # Intro to Daggerheart

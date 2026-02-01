@@ -1,7 +1,8 @@
 ---
 date: false
 layout: page
-title: "quick-reference"
+title: "Quick Reference"
+permalink: /quick-reference/
 ---
 
 # Quick Reference
