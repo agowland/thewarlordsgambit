@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Session Notes Template"
+title: "session-notes-template"
 ---
 
 # Session [#] - [Session Title]

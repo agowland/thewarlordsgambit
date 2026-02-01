@@ -1,7 +1,7 @@
 ---
 date: false
 layout: page
-title: "Character Questionnaire"
+title: "character-questionnaire"
 ---
 ## Character Questionnaire
 
