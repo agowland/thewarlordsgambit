@@ -8,11 +8,11 @@
 
 **45" Logistics**
 * **Campaign Pitch**
-    * Adaptations to make more interesting for players?
+  * Adaptations to make more interesting for players?
 * What is Daggerheart?
-    * Duality Dice, Hope, Fear, Combat, Spotlight, etc.
-    * Player Principles
-    * GM Principles
+  * Duality Dice, Hope, Fear, Combat, Spotlight, etc.
+  * Player Principles
+  * GM Principles
 * Frequency, start time, location
 * Safety checklist (optional; I'll leave it out and players can fill it out if there's something they want me to know/avoid)
 * Github ... hub
