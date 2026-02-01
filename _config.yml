@@ -1,0 +1,51 @@
+# Site Info
+title:              "The Warlord's Gambit"
+description:        "A Five Banners Burning campaign for Daggerheart"
+google_verify:      
+google_analytics:   
+
+# Author Info
+author_name:        "Aidan" # Your name here
+
+
+# Site Settings
+url:                 https://agowland.github.io/thewarlordsgambit 
+baseurl:        https://agowland.github.io/thewarlordsgambit 
+permalink:          /posts/:title # Post permalink
+timezone:           America/Los_Angeles # 
+mathjax:            true  # enables support for mathjax - set to false to disable
+
+# Site Build
+highlighter:        rouge
+markdown:           kramdown
+kramdown:
+    input:          GFM
+sass:
+    style:          :compressed
+
+# Other Params
+include:            [ "robots.txt" ]
+exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+
+paginate: 10
+paginate_path: "/blog/page:num/"
+
+defaults:
+  -
+    scope:
+      path:         ""
+    values:
+      layout:       "null"
+  -
+    scope:
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      type:         "posts"
+    values:
+      layout:       "post"
