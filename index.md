@@ -4,7 +4,9 @@ date: false
 
 An online home for resources and session notes related to *The Warlord's Gambit*.
 
-## Navigation
+### Linky-links
+
+---
 
 - Session Zero - Pre-campaign materials and onboarding
   - [Character Questionnaire]({{ "/character-questionnaire/" | relative_url }})
