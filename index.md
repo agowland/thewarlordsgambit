@@ -1,7 +1,7 @@
 ---
 date: false
 ---
-
+# The Warlord's Gambit
 
 An online home for resources and session notes related to *The Warlord's Gambit*.
 
