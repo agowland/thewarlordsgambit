@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Player Resources
-nav_order: 3
+nav_order: 40
 ---
 # Player Resources
 
