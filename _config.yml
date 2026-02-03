@@ -1,20 +1,12 @@
-# Site Info
-title:              "The Warlord's Gambit"
-description:        "A portal to resources and session notes for *The Warlord's Gambit*."
+title: "The Warlord's Gambit"
+description: "A hub for resources and session notes."
+url: "https://agowland.github.io"
+baseurl: "/thewarlordsgambit"
 
-# Author Info
-author_name:        "Aidan Gowland" # Your name here
-
-
-# Site Settings
-url:                 https://agowland.github.io # Change to your site
-baseurl:        /thewarlordsgambit
-
+# This is the magic line for Just the Docs
 remote_theme: just-the-docs/just-the-docs
 
-permalink: pretty
-
-search_enabled: true
-aux_links: 
-    "The Warlord's Gambit on GitHub":
-      - "https://github.com/agowland/thewarlordsgambit"
+# Standard Jekyll settings
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
