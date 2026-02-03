@@ -1,8 +1,8 @@
 ---
-date: false
-layout: page
-title: "Character Questionnaire"
-permalink: /character-questionnaire/
+layout: default
+title: Character Questionnaire
+parent: Session Zero
+---
 ---
 ## Character Questionnaire
 

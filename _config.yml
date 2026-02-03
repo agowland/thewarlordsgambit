@@ -1,8 +1,6 @@
 # Site Info
 title:              "The Warlord's Gambit"
 description:        "A portal to resources and session notes for *The Warlord's Gambit*."
-google_verify:      abc123 # Put your Google Verification here
-google_analytics:   UA-123
 
 # Author Info
 author_name:        "Aidan Gowland" # Your name here
@@ -11,45 +9,12 @@ author_name:        "Aidan Gowland" # Your name here
 # Site Settings
 url:                 https://agowland.github.io # Change to your site
 baseurl:        /thewarlordsgambit
-permalink:          /:title/
-timezone:           America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-mathjax:            true  # enables support for mathjax - set to false to disable
 
-# Site Build
-highlighter:        rouge
-markdown:           kramdown
-kramdown:
-    input:          GFM
-sass:
-    style:          "compressed"
+remote_theme: just-the-docs/just-the-docs
 
+permalink: pretty
 
-
-# Other Params
-include:            [ "robots.txt" ]
-exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
-plugins:
-  - jekyll-sitemap
-  - jekyll-paginate
-
-paginate: 10
-paginate_path: "/blog/page:num/"
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"
-  -
-    scope:
-      path: ""
-      type:         "pages"
-    values:
-      layout:       "page"
-  -
-    scope:
-      path: ""
-      type:         "posts"
-    values:
-      layout:       "post"
+search_enabled: true
+aux_links: 
+    "The Warlord's Gambit on GitHub":
+      - "https://github.com/agowland/thewarlordsgambit"

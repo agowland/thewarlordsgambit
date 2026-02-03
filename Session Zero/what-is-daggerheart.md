@@ -1,8 +1,8 @@
 ---
-date: false
-layout: page
-title: "What is Daggerheart"
-permalink: /what-is-daggerheart/
+layout: default
+title: What Is Daggerheart?
+parent: Session Zero
+---
 ---
 
 # Intro to Daggerheart
