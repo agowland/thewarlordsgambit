@@ -1,6 +1,8 @@
 ---
-layout: page
-title: "Session Zero Overview"
+layout: default
+title: Session Zero Agenda
+parent: Session Zero
+nav_order: 1
 ---
 
 

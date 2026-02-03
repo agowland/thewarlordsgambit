@@ -1,8 +1,8 @@
 ---
-date: false
-layout: page
-title: "Quick Reference"
-permalink: /quick-reference/
+layout: default
+title: Quick Reference
+parent: Session Zero
+nav_order: 3
 ---
 
 # Quick Reference

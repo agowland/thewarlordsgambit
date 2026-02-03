@@ -1,8 +1,7 @@
 ---
-date: false
-layout: page
-title: "Player Resources"
-permalink: /player-resources/
+layout: default
+title: Player Resources
+nav_order: 3
 ---
 # Player Resources
 

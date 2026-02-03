@@ -1,7 +1,8 @@
 ---
 layout: default
 title: World Map
-nav_order: 2
+parent: The World
+nav_order: 1
 ---
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />

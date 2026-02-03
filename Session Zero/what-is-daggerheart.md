@@ -2,7 +2,7 @@
 layout: default
 title: What Is Daggerheart?
 parent: Session Zero
----
+nav_order: 3
 ---
 
 # Intro to Daggerheart
