@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The World
+title: Atlas of the Known World
 nav_order: 50
 has_children: true
 ---
