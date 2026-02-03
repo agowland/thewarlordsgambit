@@ -1,5 +1,8 @@
 ---
-date: false
+layout: default
+title: Home
+nav_order: 1
+description: "Welcome to the Warlord's Gambit compendium.
 ---
 
 An online home for resources and session notes related to *The Warlord's Gambit*.
