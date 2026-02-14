@@ -1,0 +1,14 @@
+---
+layout: default
+title: The Beacon of Solace
+parent: Politics, Religion & Factions
+---
+
+# The Beacon of Solace
+
+The Beacon of Solace is not merely a metaphor for a guiding light, but a faith centered on the **New Gods**. The church and its clergy, the Keepers of the Light, were founded by mortals who were among the first to receive cryptic, sometimes confusing, communication from the New Gods in the
+Hallows Above. The New Gods, having sacrificed a part of themselves to protect their realm from the Forgotten Gods, are now distant but not absent.
+
+The church's core belief is that the New Gods, as Beacons of Order, are the only true path to safety and stability in the Mortal Realm. They believe that the sacrifices the New Gods made to banish the Forgotten Gods caused some of the great calamities that have befallen the Mortal Realm. The faith teaches that by following the New Gods' virtues of resilience, community, and discipline, mortals can protect themselves from the lingering corruption and influence of the Fallen Gods from the Circles Below. The church views the use of arcane magic in great evil as an abomination, as it can temporarily open rifts between the Mortal Realm and the Circles Below, allowing the Fallen to pass through.
+
+There are large churches and cathedrals dedicated to the New Gods in every city, and many towns have stone churches as well. Villages may have a wooden church of The Beacon, but are more likely to follow salt and stone traditions.
