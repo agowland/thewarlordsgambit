@@ -16,7 +16,7 @@ parent: Atlas of the Known World
 ### At A Glance
  A port town on the east side of the island, at the top of Hare Bay. Canter can supply almost any need  and serve even the most discerning of clientele, though it also has a darker underbelly, as does any city of its size. While this is a social, economic and military hub for Rockchester, it is not the hub of learning, government, research or invention that Badgerbrook is. Because Canter and the communities on the island’s east coast are newer, their societies are more traditional, holding fast to the *idea* of what it means to be a “true” Rockchester. This is especially true when compared directly with those from Rockchester, who feel less like they have to “prove” their authenticity. 
 
- ### Racial Demographics
+### Racial Demographics
 - All races present, but tend to self-segregate vs. integrate; more intercultural prejudices
 - Fewer refugees than other cities
 
