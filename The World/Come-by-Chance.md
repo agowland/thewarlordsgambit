@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Anchor Point
+title: Come-By-Chance
 parent: Atlas of the Known World
 ---
 # Come-By-Chance
