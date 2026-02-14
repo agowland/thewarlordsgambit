@@ -1,3 +1,9 @@
+---
+layout: default
+title: Canter
+parent: Atlas of the Known World
+---
+
 # Canter
 
 **Location Type:** City
