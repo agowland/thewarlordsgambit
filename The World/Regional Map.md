@@ -1,7 +1,7 @@
 ---
 layout: default
-title: World Map
-parent: The World
+title: Regional Map
+parent: Atlas of the Known World
 nav_order: 1
 ---
 
