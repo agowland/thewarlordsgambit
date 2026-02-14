@@ -104,27 +104,8 @@ has_children: true
 - Bog Eel
 - Putrid Field Finch
 - Suspicious Tonguelasher
-- 
-
-## Adversaries
-- Snarling Gossip
-- Anxious Scamp
-- Spirited Apparition
-- Parasitic Guardian
-- Simpering Maggot
-- Pulsating Skeleton
-- Instinctive Thief
-- Summit Priest
-- Odourous Rookie
-- Hulking Novice
-- Luminous Elder
-- Nest Mother
-- Spirited Oceanfront Archivist
-- Reawakened Wasteland Shambler
-- Putrid Opportunist
-
-
-
+  
+  
 ## Speculated, Under Investigation or Unconfirmed Reports
 - Pathogenic Wetland Walker
 - Aerie Rime-trotter
