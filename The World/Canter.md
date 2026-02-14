@@ -6,13 +6,13 @@ parent: Atlas of the Known World
 
 # Canter
 
-**Location Type:** City
-**Nation:** The Islands of Rockchester
-**Population:** 50,000
-**Primary Industry:** Military and import/export
-
-**Unofficial Motto:** *Strength ensures survival.*
-
+**Location Type:** City   
+**Nation:** The Islands of Rockchester   
+**Population:** 50,000   
+**Primary Industry:** Military and import/export   
+   
+**Unofficial Motto:** *Strength ensures survival.*   
+   
 ### At A Glance
  A port town on the east side of the island, at the top of Hare Bay. Canter can supply almost any need  and serve even the most discerning of clientele, though it also has a darker underbelly, as does any city of its size. While this is a social, economic and military hub for Rockchester, it is not the hub of learning, government, research or invention that Badgerbrook is. Because Canter and the communities on the island’s east coast are newer, their societies are more traditional, holding fast to the *idea* of what it means to be a “true” Rockchester. This is especially true when compared directly with those from Rockchester, who feel less like they have to “prove” their authenticity. 
 
