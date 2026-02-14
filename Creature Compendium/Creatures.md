@@ -1,0 +1,138 @@
+---
+layout: default
+title: Creature Compendium
+has_children: true
+---
+
+## Discovered & Described
+- Aetherin
+- Cinderghasts
+- Glazenwyrm
+- Stormsiren
+- Silken-nyx
+- Moss Shrike
+- Gloomstalker
+- Rime-trotter
+- Root-trotter
+- Vine-woven Scourge
+- Storm-thrummer Hulk
+- Cloudskein
+- Mirth-eater
+- Betrayer (make adorable)
+- Vexling
+- Cinderwalker
+- Fjord Fawn
+- Fjord Shrike
+- Muskeg Wisp
+- Muskeg Maw
+- Muskeg Slinger
+- Swamp Singer
+- River Talon
+- Lake Soot
+- Crag Ohm
+- Laputian Thrasher
+- Feral Moro (wolf-like)
+- Stone Ponyo
+- Scale Skulk
+- Crag Calcifer
+- Glass Shōkichi (friendly, otter-like)
+- Crag Scale
+- Feral Dogs
+- Spearwing Pseudo-Dragon (Sinlaire Art)
+- Swamp Dragons (a la Terry Pratchett)
+- Forest Steward
+- River Spirit
+- Elder Moss-Bear
+- Tidepool Crab
+- Shale Scaleling
+- Membranous Husk
+- Lonely Waspwyrm
+- Soothing Crag Scale
+- Swift Shambler
+- Lobed Sprout
+- Rotting Python
+- Geyser Goat
+- Boulder Fledgling
+- Big-nosed Grackling
+- Vulgar Parrot Waxling
+- Boulder-scrambling Gloomstalker
+- Crag Waspwyrm
+- Nook-dwelling Scryerling
+- Parasitic Storm-thrummer Hulk
+- Sharp-nosed Scavenger Bird
+- Swift Desert Sparrow
+- Migratory Spireshrike
+- Giant Bog Sapling
+- Giant Ravine Gecko
+- Lagoon Howler
+- Hive Decider Bird
+- Hollow Newt
+- Thicket Scavenger Bird
+- Reef Aetherin
+- Hinterland Fjord Shrike
+- Briar's Spotted Toad
+- Small-nosed Delta Stormsiren
+- Renewed Hill Sproutling
+- Fertile Fen Rattler
+- Summit Coyote
+- Tyrannical Seaside Goat
+- Regrowing Membrane-puppy
+- Juvenile Nest Termorer
+- Brooding Oceanfront Python
+- Parasitic Mine Mouse
+- Lobed Passage Capling
+- Mycelium Emberling
+- Marsh Lumpfish
+- Ravenous Conflagration
+- Valley Lake Soot
+- Glade Vexling
+- Skulking FOrtstalker
+- Putrid Fen Defender
+- Gorge Storm-thrummer
+- Crusty Outcrop Toad
+- Cliffbottom Ghast
+- Estuary Aetherin
+- Burnt Hollow Tornskata (Shrike)
+- Mudpot Python
+- Rampartshrike
+- Farm Shambler
+- Skulking Delta Spirit
+- Shoalcrier
+- Fissure Dragon
+- Small-nosed Crater Finchling
+- Moor Mycorrhiza
+- Bog Eel
+- Putrid Field Finch
+
+## Adversaries
+- Snarling Gossip
+- Anxious Scamp
+- Spirited Apparition
+- Parasitic Guardian
+- Simpering Maggot
+- Pulsating Skeleton
+- Instinctive Thief
+- Summit Priest
+- Odourous Rookie
+- Hulking Novice
+- Luminous Elder
+- Nest Mother
+- Spirited Oceanfront Archivist
+- Reawakened Wasteland Shambler
+- Putrid Opportunist
+
+
+
+## Speculated, Under Investigation or Unconfirmed Reports
+- Pathogenic Wetland Walker
+- Aerie Rime-trotter
+- Sandbank Coyote
+- Hill Snake
+- Gelatinous Steppe Newt
+- Sharp-nosed Plateau Gecko
+- Keen-eyed Bastion Gargoyle
+- Mine Jayling
+- Farm Beetlebark
+- Serpentine Briar Scaleling
+- Delta Grackling
+- Myconid Hill Coyote
