@@ -103,6 +103,8 @@ has_children: true
 - Moor Mycorrhiza
 - Bog Eel
 - Putrid Field Finch
+- Suspicious Tonguelasher
+- 
 
 ## Adversaries
 - Snarling Gossip

@@ -34,6 +34,7 @@ parent: Creature Compendium
 - Small-nosed Atoll Bryophyte
 - Persistent Caldera Bracket
 - Choking Bramble Pinkgill
+- Crusty Marsh Bolete
 
 ## Speculated, Under Investigation or Unconfirmed Reports
 - Dawn Pea
@@ -47,3 +48,6 @@ parent: Creature Compendium
 - Stippled Glamourfall
 - Devil's Cigar
 - Blue Pinkgill
+- Fidgety Hornwort
+- Flighty Lungwort
+- Lonely Crater Sprout
