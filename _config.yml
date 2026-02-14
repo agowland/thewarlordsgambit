@@ -13,5 +13,3 @@ plugins:
 
 # Just the Docs Settings
 nav_fixed_width: true
-# This forces the side nav to stay expanded
-side_nav_expandable: true
